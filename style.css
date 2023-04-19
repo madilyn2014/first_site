@@ -14,3 +14,31 @@ color: rgb(132, 0, 255);
 p {
 color: rgb(132, 0, 255);
 }
+
+nav {
+  background-color: #333; /* Set the background color of the navigation bar */
+  overflow: hidden; /* Hide any overflowing content */
+}
+
+nav ul {
+  list-style-type: none; /* Remove bullet points from the list */
+  margin: 0; /* Remove any default margins */
+  padding: 0; /* Remove any default padding */
+  display: flex; /* Use flexbox layout to align the list items horizontally */
+}
+
+nav li {
+  float: left; /* Float the list items to the left */
+}
+
+nav li a {
+  display: block; /* Display the links as block elements to fill the entire list item */
+  color: white; /* Set the text color of the links */
+  text-align: center; /* Center the text in the links */
+  padding: 14px 16px; /* Add some padding to the links */
+  text-decoration: none; /* Remove underline from the links */
+}
+
+nav li a:hover {
+  background-color: #111; /* Change the background color of the link on hover */
+}
