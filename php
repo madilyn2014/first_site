@@ -23,7 +23,7 @@
 </head>
 <body>
   <div class="container">
-    <button>Click Me</button>
+    <button>Submit</button>
   </div>
 </body>
 </html>
