@@ -7,3 +7,12 @@
 
 <!-- Content goes here -->
 
+<body>
+  <h1>Welcome to My New Page</h1>
+  
+  <p>This is a new page I created for my website.</p>
+  
+  <img src="path/to/image.jpg" alt="Image description">
+  
+  <a href="https://www.example.com">Visit Example.com</a>
+</body>
