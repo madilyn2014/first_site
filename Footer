@@ -43,7 +43,18 @@
     <ul>
       <li><a href="#">Home</a></li>
       <li><a href="#">About Us</a></li>
-      <li><a href="<a href="newpage.html">Visit My New Page</a>
+      <li><a href="<a href="newpage.html">Visit My New Page</a><!DOCTYPE html>
+<html>
+<head>
+  <title>Your Page Title</title>
+</head>
+<body>
+
+<!-- Content goes here -->
+
+</body>
+</html>
+
 ">Contact Us</a></li>
     </ul>
   </nav>
