@@ -26,6 +26,16 @@
       text-decoration: none;
     }
 
+      .contact-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 4px;
+}
+
     nav li a:hover {
       background-color: #111;
     }
